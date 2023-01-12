@@ -8,5 +8,6 @@ StaticAnalysis.m
 有限元方法的简单代码实现
 
 # 文件说明
-StaticAnalysis.m - 静力分析程序
+StaticAnalysis - 静力分析程序
+ - StaticAnalysis_Q.m - 简支+刚固受均布载荷的静力分析
 
